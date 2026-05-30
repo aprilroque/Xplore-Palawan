@@ -50,4 +50,9 @@ and travel guides while supporting local communities and sustainable economic gr
 
 ## Picture/Screenshot
 
-<img src="YOUR_SCREENSHOT_LINK_HERE" alt="Xplore Palawan Screenshot" width="800"/>
+<img width="149" height="309" alt="image" src="https://github.com/user-attachments/assets/3f88da78-ffc9-485a-aaab-e0b571ae3cbe" />
+
+<img width="149" height="308" alt="image" src="https://github.com/user-attachments/assets/82964c98-551b-4ad1-93f9-b2df14e3d144" />
+
+
+
